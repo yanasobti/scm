@@ -1,2 +1,3 @@
 SCM lab work
-This repo demonstrates git feauteures
+
+This repo demonstrates git feauteures..
