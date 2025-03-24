@@ -1,3 +1,0 @@
-*******SCM lab work*******
-
-This repo demonstrates git feautures...
